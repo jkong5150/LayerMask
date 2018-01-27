@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">LayerMask</string>
+    <string name="instruction_1">Tap and hold to turn on the flashlight. Drag finger to view other parts.</string>
 </resources>
