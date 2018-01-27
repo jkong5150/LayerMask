@@ -1,0 +1,1 @@
+Transparent Hole in ImageView
